@@ -8,15 +8,20 @@ Modifica los colores de la consola de PowerShell, el título de la ventana y el 
 
 Instala sobre el software de virtualización que estés usando, y donde tengas instalado el servidor, una máquina virtual donde se instale el sistema operativo Windows 10. Llama a esa máquina virtual Cliente1.
 2.23.
- 
+ <img width="1016" height="840" alt="fotofcapturateodioramon" src="https://github.com/user-attachments/assets/91e89a01-59d3-4685-9076-7ba88c5ee93d" />
+
 
 Comprueba la conexión entre las máquinas Cliente1 y Servidor utilizando el comando ping y Test-NetConnection.
 2.24.
- 
+ <img width="1026" height="795" alt="conexionservidor" src="https://github.com/user-attachments/assets/6fa67f81-c21d-4d9b-8c61-e87bfbc9b79f" />
+<img width="1017" height="833" alt="conexioncliente" src="https://github.com/user-attachments/assets/9551f2e0-4a0c-475d-827e-ede3ce2c6c14" />
+
 
 Crea un usuario local llamado usuariolocal. Haz que sea un usuario estándar y créale una contraseña que él no pueda cambiar. Entra como usuariolocal e intenta cambiarla.
 2.25.
- 
+ <img width="1018" height="836" alt="usuariolocal" src="https://github.com/user-attachments/assets/e7added0-529b-4c9e-86f9-085d3ba82ab6" />
+
+<img width="1012" height="841" alt="Captura de pantalla 2025-11-28 180519" src="https://github.com/user-attachments/assets/3484e88f-dc96-4dad-a606-97d5e6a11c91" />
 
 En un sistema Windows Server 2019 con Active Directory instalado muestra el nombre del equipo y el de su dominio. Añade el ordenador Cliente1 al dominio del servidor.
 2.26.
